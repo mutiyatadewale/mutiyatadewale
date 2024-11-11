@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mutiyatadewale
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL,POWER BI,EXCEL, GOOGLE ANALYTICS
+- 🌱 I’m experience with SQL,POWER BI,EXCEL, TABLEAU, PYTHON to derive insights and generate patterns
 - 💞️ I’m looking to collaborate on Joint project, internships, entry-level roles, networking.
 - 📫 How to reach me https://www.linkedin.com/in/mutiyat-adewale-81438b150/
